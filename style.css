@@ -1,0 +1,42 @@
+body{
+    margin: 0%;
+}
+h2{
+    font-size: 40px;
+}
+section{
+    
+}
+  .w{
+    color: aquamarine;
+  }
+    
+
+img{
+
+    width: 45%;
+    border-radius: 50px;
+}
+.link{
+    text-decoration: none;
+    padding: 10px 50px;
+    border-radius: 10px;
+    background-image: linear-gradient(blue,blueviolet);
+    color: rgb(240, 234, 234);
+    font-weight: 700;
+
+
+}
+.h{
+    width: 50%;
+
+}
+.topbar{
+    background-image:url(wave.svg);
+    background-repeat: no-repeat;
+    display: flex;
+    padding: 10%;
+   
+    height:100vh;
+    width:100%;
+}
